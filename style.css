@@ -1,0 +1,37 @@
+
+  .first-pass{
+    width:50%;
+    margin:20px auto;
+  
+  }
+  input{
+    border:1px solid gainsboro;
+    border-radius:4px;
+    line-height:20px;
+    padding:5px;
+    width:100%;
+  }
+  p{
+    color:white;
+  }
+  .validation_red{
+    color: red;
+  }
+  .validation_green{
+    color: green;
+  }
+  
+  .input_container{
+    position:relative;
+  }
+  button{
+    background:transparent;
+    border:none;
+    cursor:pointer;
+    position:absolute;
+    right:0;
+    top:30%;
+  }
+  
+  
+  
