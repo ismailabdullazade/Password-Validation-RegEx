@@ -32,6 +32,15 @@
     right:0;
     top:30%;
   }
+
+  @media (max-width:476px) {
+    p{
+      font-size: 10px;
+    }
+    h2{
+      font-size: 18px;
+    }
+  }
   
   
   
